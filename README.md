@@ -30,6 +30,7 @@ Run `pip install requirements.txt && npm install`
 3. Run `npm run rag-server` to start the RAG server
 
 ## Explanation
+
 1. The RAG Server consists of :
     - Parse the uploaded PDFs from the `uploads\` folder. 
     - Clean the Embedding table in KDB.AI Vector Database and initialize the table
@@ -45,11 +46,12 @@ Run `pip install requirements.txt && npm install`
     - `/upload` route to accept files, to circumvent the issue of multipart-formdata not supported by trpc at the moment  
 
 ## Screenshots
-[Screenshot-1](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Thumbnail.png)
-Upload Screen
 
-[Screenshot-2](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Equity%20research%20PDFs%20convo.png)
-Answer from given Bumble's Equity research PDF
+- Upload Screen
+![Screenshot-1](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Thumbnail.png)
 
-[Screenshot-3](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Tegus%20Call%20transcript%20convo.png)
-Answer from given Bumble's Tegus Expert Call PDFs
+- Answer from given Bumble's Equity research PDF
+![Screenshot-2](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Equity%20research%20PDFs%20convo.png)
+
+- Answer from given Bumble's Tegus Expert Call PDFs
+![Screenshot-3](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Tegus%20Call%20transcript%20convo.png)
