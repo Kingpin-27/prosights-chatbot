@@ -1,4 +1,4 @@
-# ProsightsChatbot
+# Prosights ChatBot
 
 ## Project Demo Video
 [![Watch the video](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Thumbnail.png)](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Demo.mp4)
