@@ -45,11 +45,11 @@ Run `pip install requirements.txt && npm install`
     - `/upload` route to accept files, to circumvent the issue of multipart-formdata not supported by trpc at the moment  
 
 ## Screenshots
-[!Screenshot1](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Thumbnail.png)
+[Screenshot-1](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Project%20Thumbnail.png)
 Upload Screen
 
-[!Screenshot2](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Equity%20research%20PDFs%20convo.png)
+[Screenshot-2](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Equity%20research%20PDFs%20convo.png)
 Answer from given Bumble's Equity research PDF
 
-[!Screenshot3](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Tegus%20Call%20transcript%20convo.png)
+[Screenshot-3](https://raw.githubusercontent.com/Kingpin-27/prosights-chatbot/main/demo-assets/Tegus%20Call%20transcript%20convo.png)
 Answer from given Bumble's Tegus Expert Call PDFs
